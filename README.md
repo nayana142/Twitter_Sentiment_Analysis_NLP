@@ -5,8 +5,7 @@
   
       * Tweet ID: ID of Tweet
       * Entity: Entity that Tweet talks about
-      * Sentiment: Sentiment of the tweet text regarding the entity
-        Positive, Negative, Neutral, Irrelevant
+      * Sentiment: Sentiment of the tweet text regarding the entity Positive, Negative, Neutral, Irrelevant
       * Tweet Content: Tweet Text
 # Data Sentiment Analysis
   ==============================
